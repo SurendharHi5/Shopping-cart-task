@@ -1,6 +1,6 @@
 # React + Vite
 
-Check the URL : https://shopping-cart-task-surendhar-cs-projects.vercel.app/#!
+OUTPUT URL : https://shopping-cart-task-surendhar-cs-projects.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
